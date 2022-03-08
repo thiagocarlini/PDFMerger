@@ -1,0 +1,1 @@
+document.getElementById("juntar").addEventListener("click", ()=>{eel.juntar()}, false);

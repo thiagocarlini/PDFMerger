@@ -1,0 +1,33 @@
+body {
+    background-color: #FFFF;
+    font-family: Arial;
+    color: #000;
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: left;
+    font: 36px Arial;
+    background-color: #4554a5;
+    color: #FFFF;
+    padding: 10px 10px 10px 10px;
+  }
+  ul {
+    text-align: left;
+    margin-left: 33%;
+    }
+  
+  .button1 {
+    font: 28px Arial;
+    text-decoration: none;
+    background-color: #AE1900;
+    color: #FFFF;
+    padding: 30px 100px 30px 100px; 
+  }
+  .button2 {
+    font: 28px Arial;
+    text-decoration: none;
+    background-color: #4554a5;
+    color: #FFFF;
+    padding: 30px 100px 30px 100px;
+  }
